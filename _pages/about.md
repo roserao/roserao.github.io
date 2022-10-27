@@ -28,8 +28,10 @@ Publications
 Presentations
 ======
 
-1. <u>J. Rao</u>, N. Mancuso, H. Pimentel: "Quantifying uncertainty in estimation of isoform expression heritability" <b>Genome Informatics</b>, Cold Spring Harbor Laboratory, USA (November, 2021; Poster presentation)
+1. <u>J. Rao</u>, H. Pimentel: "Computational approaches for inferring gene rgulation in <em>in situ</em> perturbation screens" <b>Biological Data Science</b>, Cold Spring Harbor Laboratory, USA (November, 2022; Talk)
 
-2. <u>J. Rao</u>, K. Burch, H. Pimentel: "Quantifying uncertainty in heritability estimation with small sample sizes" <b>Bruins-In-Genomics Summer</b>, UCLA, USA (August, 2020; Oral presentation)
+2. <u>J. Rao</u>, N. Mancuso, H. Pimentel: "Quantifying uncertainty in estimation of isoform expression heritability" <b>Genome Informatics</b>, Cold Spring Harbor Laboratory, USA (November, 2021; Poster presentation)
+
+3. <u>J. Rao</u>, K. Burch, H. Pimentel: "Quantifying uncertainty in heritability estimation with small sample sizes" <b>Bruins-In-Genomics Summer</b>, UCLA, USA (August, 2020; Oral presentation)
 
  

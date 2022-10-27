@@ -5,7 +5,6 @@ type: "Undergraduate/Graduate course"
 permalink: /teaching/2022-winter-teaching-1
 venue: "UCLA, Computer Science"
 date: 2022-01-05
-# location: "City, Country"
 ---
 Topics covered
 ======
