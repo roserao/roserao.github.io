@@ -23,16 +23,16 @@ Recent News
 
 Publications
 ======
-1. ...
+1. <u>Rao, J.</u>, Xin, R., Macdonald, C. et al. Rosace: a robust deep mutational scanning analysis framework employing position and mean-variance shrinkage. Genome Biol 25, 138 (2024). https://doi.org/10.1186/s13059-024-03279-7
 
 
 <br>
 
 Presentations
 ======
-1. <u>J. Rao</u>: "Modeling Growth-based Deep Mutational Scanning Counts with Rosace" <b> Variant Effects Seminar Series</b>, Virtual (August 2024; Invited Talk) [Youtube link](https://youtu.be/Nt5juj-CgxM?si=o-oEifb5skehbgkU)
+1. <u>J. Rao</u>: "Modeling Growth-based Deep Mutational Scanning Counts with Rosace" <b>[Variant Effects Seminar Series](https://www.varianteffect.org/seminar-series)</b> by [Atlas of Variant Effects Alliance](https://www.varianteffect.org/), Virtual (August 2024; Invited Talk) [Youtube link](https://youtu.be/Nt5juj-CgxM?si=o-oEifb5skehbgkU).
 
-2. <u>J. Rao</u>, H. Pimentel: "What is in a variant score?" <b>Mutational Scanning Symposium</b>, the Broad Institute, USA (May 2024; Workshop Talk) [Youtube link]([https://youtu.be/A5qd-oyk7EY?si=1ARC8qsQpDHgFHug])
+2. <u>J. Rao</u>, H. Pimentel: "What is in a variant score?" <b>Mutational Scanning Symposium</b>, the Broad Institute, USA (May 2024; Workshop Talk) [Youtube link]([https://youtu.be/A5qd-oyk7EY?si=1ARC8qsQpDHgFHug]). Highlighted in [news](https://brotmanbaty.org/news/mss-2024-recap-and-observations-from-sumaiya-iqbal-and-doug-fowler).
 
 3. <u>J. Rao</u>, H. Pimentel: "Computational approaches for inferring gene regulation in <em>in situ</em> perturbation screens" <b>Biological Data Science</b>, Cold Spring Harbor Laboratory, USA (November, 2022; Talk)
 
