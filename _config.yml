@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jingyou Rao"
   avatar           : "profile2.jpg"
-  bio              : "PhD student @ UCLA Computer Science"
-  location         : "Los Angeles"
+  bio              : "Postdoc @ UCSF Bioengineering"
+  location         : "San Francisco"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ERxq2TEAAAAJ&hl=en"
-  email            : "mailto:roserao@g.ucla.edu"
+  email            : "mailto:roseraosh (at) gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
