@@ -1,64 +1,28 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /resume/
+  - /cv-json/
+  - /resume-json
 ---
 
-{% include base_path %}
+[Download my CV (PDF, September 2026)]({{ '/images/CV_Jingyou_Rao_20260907.pdf' | relative_url }}){: .btn .btn--primary}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **PhD, Computer Science (Computational Biology)**, UCLA, September 2021–December 2025. Thesis: *Statistical and Computational Methods to Uncover the Genetic Architecture of Protein Function*.
+- **BS, Computer Science; BS, Computational and Systems Biology (Biological Data Science)**, UCLA, September 2018–June 2021. *Summa cum laude*.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research Experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Postdoctoral Researcher**, Coyote-Maestas Lab, Department of Bioengineering and Therapeutic Sciences, UCSF, December 2025–present.
+- **Visiting Scholar**, Coyote-Maestas Lab, UCSF, June 2024–December 2025.
+- **Graduate Student Researcher**, Pimentel Lab, David Geffen School of Medicine, UCLA, July 2021–September 2025.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+My work combines experimental and computational methods to map protein sequence–function relationships, including deep mutational scanning, combinatorial mutagenesis, and statistical modeling. I study epistasis and functional diversification in human olfactory receptors, and genotype-dependent drug responses in membrane proteins such as CFTR.
+
+See my [publications]({{ '/' | relative_url }}#journal-publications), [presentations]({{ '/' | relative_url }}#oral-presentations), [community service]({{ '/' | relative_url }}#community-service), [mentoring]({{ '/' | relative_url }}#mentoring), [teaching]({{ '/teaching/' | relative_url }}), and [software]({{ '/' | relative_url }}#software), or download the complete CV above.
